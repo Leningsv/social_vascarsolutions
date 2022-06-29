@@ -1,4 +1,4 @@
-requirements
-1. docker
-2. run database
-```docker run --name some-mysql  -p3306:3306 -e MYSQL_ROOT_PASSWORD=admin123 -d mysql```
+2 apis implementations 
+
+- Api for create a report - post
+- Api for create a report - comment
